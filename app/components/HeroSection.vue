@@ -24,7 +24,7 @@ import ButtonGhost from '~/components/ui/ButtonGhost.vue'
 
         <h1 class="text-5xl lg:text-6xl font-bold text-typography leading-tight">
           O Melhor<br>
-          <span class="text-primary">da Barbearia de Filho da Puta</span><br>
+          <span class="text-primary">da Barbearia</span><br>
           está aqui.
         </h1>
 
